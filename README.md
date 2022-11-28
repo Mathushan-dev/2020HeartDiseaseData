@@ -1,4 +1,4 @@
-# Disclaimer - This dataset and secription was provided by https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
+# Disclaimer - This dataset and description was provided by https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
 
 # 2020 annual CDC survey data of 400k adults related to their health status
 ## What topic does the dataset cover?
